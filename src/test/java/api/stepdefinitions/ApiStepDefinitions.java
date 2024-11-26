@@ -2,7 +2,6 @@ package api.stepdefinitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.Assert;
 
