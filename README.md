@@ -1,10 +1,14 @@
 ﻿# framework-auto
 
 ## Tools and Libraries
-- **Cucumber**: Untuk Gherkin test case
+- **Java**
+- **Oracle JDK 23.0.1**
+- **Junit 5**
+- **Cucumber**: Gherkin test case
 - **RestAssured**: API Testing
 - **Selenium**: Web UI Testing
-- **Gradle**: Build Management
+- **Gradle 8.11**: Build
+- **Google Chrome**
 
 ## Struktur Proyek
 - `src/test/java/api`: API Test Logic
@@ -12,5 +16,6 @@
 
 ## Cara Menjalankan Test
 - Jalankan semua tes API:
-- ./gradlew testApi
+- masuk terminal ketik :
+- ./gradlew testApi 
 - ./gradlew testWeb
