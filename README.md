@@ -19,3 +19,8 @@
 - masuk terminal ketik :
 - ./gradlew testApi 
 - ./gradlew testWeb
+
+## NOTE
+saya tidak menggunakan website dummy.io karena tidak dapat menemukan/membuat app-id
+untuk digunakan dalam membuat framework menggunakan restassured
+jadi saya ganti mengunakan website reqres.in untuk testing api seperti tutor di video menggunakan restassured
